@@ -69,8 +69,10 @@ a {
   padding: 0;
 }
 .bg{
-  width: 100%;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
  
 .per{
   text-align: center;
